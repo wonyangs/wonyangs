@@ -1,6 +1,6 @@
 
 ## Solved.ac
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={bennyws})](https://solved.ac/{bennyws})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bennyws)](https://solved.ac/bennyws)
 
 <!--
 **gemstoneyang/gemstoneyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
