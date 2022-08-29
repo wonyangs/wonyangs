@@ -5,6 +5,9 @@
 ## Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bennyws)](https://solved.ac/bennyws)
 
+## Code time badge
+[![wakatime](https://wakatime.com/badge/user/a291a6ee-eeb1-4e3b-b5e5-ff8dc5d5085f.svg)](https://wakatime.com/@a291a6ee-eeb1-4e3b-b5e5-ff8dc5d5085f)
+
 <!--
 **gemstoneyang/gemstoneyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
