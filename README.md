@@ -6,40 +6,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bennyws)](https://solved.ac/bennyws)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 509 Contributions in the Year 2022
- > 
-> 📦 70.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I Mostly Code in Python** 
-
-```text
-Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78% 
-Java                     5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-C                        3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/gemstoneyang/gemstoneyang/main/charts/bar_graph.png) 
-
-
- Last Updated on 29/08/2022 07:30:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
