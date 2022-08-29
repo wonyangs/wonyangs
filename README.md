@@ -5,10 +5,6 @@
 ## Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bennyws)](https://solved.ac/bennyws)
 
-## Code time badge
-[![wakatime](https://wakatime.com/badge/user/a291a6ee-eeb1-4e3b-b5e5-ff8dc5d5085f.svg)](https://wakatime.com/@a291a6ee-eeb1-4e3b-b5e5-ff8dc5d5085f)
-[![wonyang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wonyang)]
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-25%20mins-blue)
 
