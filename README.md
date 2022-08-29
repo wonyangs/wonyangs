@@ -9,6 +9,9 @@
 [![wakatime](https://wakatime.com/badge/user/a291a6ee-eeb1-4e3b-b5e5-ff8dc5d5085f.svg)](https://wakatime.com/@a291a6ee-eeb1-4e3b-b5e5-ff8dc5d5085f)
 [![wonyang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wonyang)]
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **gemstoneyang/gemstoneyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
