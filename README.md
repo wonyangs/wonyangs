@@ -6,6 +6,7 @@
 
 ## Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bennyws)](https://solved.ac/bennyws)
+<a href="https://solved.ac/bennyws"><img src="http://mazandi.herokuapp.com/api?handle=bennyws&theme=cold"/></a>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
