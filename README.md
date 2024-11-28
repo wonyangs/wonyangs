@@ -8,7 +8,7 @@
 - 42 Seoul 7th Cadet (2022. 07 - 2024.05)
 - SW Maestro 15th (2024. 04 - 2024. 12)
 
-#### 🌱 I’m currently learning
+### 🌱 I’m currently learning
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
