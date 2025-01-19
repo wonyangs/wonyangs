@@ -7,12 +7,13 @@
 - [Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_2) (2018. 03 - 2025. 02)
 - 42 Seoul 7th Cadet (2022. 07 - 2024. 05)
 - SW Maestro 15th (2024. 04 - 2024. 12)
+- NAVER Cloud Healthcare BE Internship (2025. 01 -)
 
 ### 🌱 I’m currently learning
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![AWS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS&color=232F3E&logo=amazonwebservices&logoColor=white&label=)
 
 <details>
