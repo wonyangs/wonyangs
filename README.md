@@ -13,8 +13,8 @@
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff)
-![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
-![AWS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS&color=232F3E&logo=amazonwebservices&logoColor=white&label=)
+![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=232F3E&logo=kubernetes&logoColor=326CE5&label=)
+
 
 <details>
 <summary>📚  Experienced Tech Stack </summary>
@@ -37,10 +37,12 @@
 
 <!-- DevOps and Cloud -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff">
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=ffffff">
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=ffffff">
 <br>
 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=ffffff">
 <img src="https://img.shields.io/badge/AWS Fargate-FF9900?style=flat-square&logo=awsfargate&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=ffffff">
