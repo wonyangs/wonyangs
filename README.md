@@ -8,6 +8,7 @@
 - 42 Seoul 7th Cadet (2022. 07 - 2024. 05)
 - SW Maestro 15th (2024. 04 - 2024. 12)
 - NAVER Cloud BE Internship (2025. 01 - 2025. 07)
+- GenesisNest BE Developer (2025. 08 - )
 
 ### 🌱 I’m currently learning
 
