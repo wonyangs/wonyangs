@@ -90,6 +90,8 @@
 <br>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C709%20hrs%202%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -99,6 +101,32 @@
 🌙 Night                  509 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 14 hrs 58 mins (100.0%)
+
+✍️ 6,837 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 221,370,114 Input Tokens, 1,054,755 Output Tokens
+
+💵 $1120.81 Estimated AI Cost This Week
+
+🧠 85 AI Sessions, 216 AI Prompts
+
+GPT                      7,120 lines         █████████████████████████   100.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,551 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
 
 
 <!--END_SECTION:waka-->
