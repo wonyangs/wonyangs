@@ -90,6 +90,43 @@
 <br>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C709%20hrs%202%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                685 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+🌆 Daytime                2835 commits        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+🌃 Evening                6157 commits        ███████████████░░░░░░░░░░   60.45 % 
+🌙 Night                  509 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs (100.0%)
+
+✍️ 3,348 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 95,080,360 Input Tokens, 489,085 Output Tokens
+
+💵 $483.16 Estimated AI Cost This Week
+
+🧠 23 AI Sessions, 94 AI Prompts
+
+GPT                      3,452 lines         █████████████████████████   100.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 531 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 ### Solved.ac
