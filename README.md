@@ -90,6 +90,24 @@
 <br>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C710%20hrs%208%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                685 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+🌆 Daytime                2835 commits        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+🌃 Evening                6157 commits        ███████████████░░░░░░░░░░   60.45 % 
+🌙 Night                  509 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 ### Solved.ac
