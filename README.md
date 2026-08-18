@@ -96,8 +96,8 @@
 
 ```text
 🌞 Morning                685 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-🌆 Daytime                2835 commits        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-🌃 Evening                6157 commits        ███████████████░░░░░░░░░░   60.45 % 
+🌆 Daytime                2837 commits        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+🌃 Evening                6157 commits        ███████████████░░░░░░░░░░   60.43 % 
 🌙 Night                  509 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
@@ -105,25 +105,24 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 52 mins (99.15%)
+⏱ AI Coding Time: 3 hrs 43 mins (98.22%)
 
-✍️ 5,627 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,873 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 26,522,074 Input Tokens, 1,272,507 Output Tokens
+🔤 13,456,287 Input Tokens, 888,198 Output Tokens
 
-💵 $325.34 Estimated AI Cost This Week
+💵 $174.04 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 87 AI Prompts
+🧠 25 AI Sessions, 33 AI Prompts
 
-GPT                      3,400 lines         ███████████████░░░░░░░░░░   58.26 % 
-Opus                     1,770 lines         ████████░░░░░░░░░░░░░░░░░   30.33 % 
-Fable                    666 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+GPT                      3,400 lines         █████████████████████░░░░   83.62 % 
+Fable                    666 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,228 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.68% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,097 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.97% of changed lines were hand-edited
 ```
 
 
