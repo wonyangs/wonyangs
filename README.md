@@ -105,24 +105,24 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 43 mins (98.22%)
+⏱ AI Coding Time: 1 hr 46 mins (96.34%)
 
-✍️ 3,873 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,557 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,456,287 Input Tokens, 888,198 Output Tokens
+🔤 12,361,479 Input Tokens, 743,148 Output Tokens
 
-💵 $174.04 Estimated AI Cost This Week
+💵 $138.40 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 33 AI Prompts
+🧠 21 AI Sessions, 18 AI Prompts
 
-GPT                      3,400 lines         █████████████████████░░░░   83.62 % 
-Fable                    666 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+GPT                      3,351 lines         ███████████████████████░░   90.84 % 
+Fable                    338 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,097 characters per prompt
+📚 Verbose Prompter — average 2,855 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.97% of changed lines were hand-edited
+🚀 High AI Trust — 1.07% of changed lines were hand-edited
 ```
 
 
