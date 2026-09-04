@@ -96,8 +96,8 @@
 
 ```text
 🌞 Morning                709 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-🌆 Daytime                2856 commits        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-🌃 Evening                6160 commits        ███████████████░░░░░░░░░░   60.19 % 
+🌆 Daytime                2859 commits        ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌃 Evening                6160 commits        ███████████████░░░░░░░░░░   60.17 % 
 🌙 Night                  509 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 ```
 
@@ -105,25 +105,25 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 20 mins (99.98%)
+⏱ AI Coding Time: 7 hrs 5 mins (99.96%)
 
-✍️ 3,958 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,333 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,912,459 Input Tokens, 1,488,830 Output Tokens
+🔤 4,456,786 Input Tokens, 721,014 Output Tokens
 
-💵 $385.14 Estimated AI Cost This Week
+💵 $213.98 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 113 AI Prompts
+🧠 6 AI Sessions, 61 AI Prompts
 
-Opus                     3,417 lines         █████████████████████░░░░   82.68 % 
-GPT                      716 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Opus                     2,223 lines         ███████████████████████░░   91.03 % 
+GPT                      219 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 585 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 452 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
