@@ -105,18 +105,17 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (100.0%)
+⏱ AI Coding Time: 28 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,484,026 Input Tokens, 63,368 Output Tokens
+🔤 1,034,679 Input Tokens, 51,545 Output Tokens
 
-💵 $49.76 Estimated AI Cost This Week
+💵 $35.35 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 2 AI Prompts
+🧠 4 AI Sessions, 2 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
