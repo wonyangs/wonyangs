@@ -105,23 +105,7 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 1,034,679 Input Tokens, 51,545 Output Tokens
-
-💵 $35.35 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 2 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 37,245 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
